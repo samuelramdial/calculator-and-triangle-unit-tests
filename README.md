@@ -22,8 +22,8 @@ A program that classifies triangles based on their side lengths. It includes:
 - Web-CAT feedback for style and testing validation
 
 ## Developed For 
-**ITSC 2214 - Data Structures and Algorithms 
-University of North Carolina at Charlotte 
-Instructor: Dr. Manuel A. Pérez-Quiñones
+-**ITSC 2214 - Data Structures and Algorithms 
+-University of North Carolina at Charlotte 
+-Instructor: Dr. Manuel A. Pérez-Quiñones
 
 © 2025 Samuel Ramdial
