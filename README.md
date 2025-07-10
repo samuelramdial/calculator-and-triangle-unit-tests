@@ -21,12 +21,11 @@ A program that classifies triangles based on their side lengths. It includes:
 - Netbeans
 - Web-CAT feedback for style and testing validation
 
-## Developed For 
-
-**ITSC 2214 - Data Structures and Algorithms 
-
-University of North Carolina at Charlotte
-
-Instructor: Dr. Manuel A. Pérez-Quiñones
+## Acknowledgements
+Project developed for: 
+- **ITSC 2214 - Data Structures and Algorithms**
+- Intstructor: Dr. Manuel A. Pérez-Quiñones
+- University of North Carolina at Charlotte
 
 © 2025 Samuel Ramdial
+
