@@ -2,13 +2,13 @@
 
 This project contains two small Java programs focused on developing unit testing skills using JUnit and writing clean, well-commented code according to the CCI Style Guide. 
 
-## Project 1A: Calculator 
+## Project 1: Calculator 
 A simple calculator class that supports basic arithmetic operations: 
 - Initial buggy implementation (used to practice debugging and Web-CAT feedback)
 - JUnit test cases for all operations
 - Final corrected version with full test coverage
 
-## Project 1B: Triangle Classification
+## Project 1: Triangle Classification
 
 A program that classifies triangles based on their side lengths. It includes: 
 - Logic to identify scalene, isosceles, and equilateral triangles
